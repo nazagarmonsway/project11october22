@@ -5,3 +5,9 @@ fontawesome.com
 content delivery netwrok CDN
 
 cdnjs.com
+
+
+tailwind
+bulma
+
+2:20:17

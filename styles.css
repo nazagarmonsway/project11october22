@@ -96,3 +96,11 @@ iframe{
     width: 800px;
     height: 500px;
 } */
+
+body {
+    padding: 5px;
+}
+
+input[type="email"]{
+  border: 3px solid red;
+}
